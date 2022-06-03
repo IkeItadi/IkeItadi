@@ -4,16 +4,26 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Landing page</b>
-  -<a href="https://github.com/IkeItadi/intro-webpage">Intro Page</a>
-- <b>Online store</b>
-  -under construction
-- <b>Read Manga online</b>
-  -under construction
-- <b>Python Web scraping</b>
-  -under construction  
-- <b>Spotify clone</b>
-  -under construction
+<ul>
+  <li><a href="https://github.com/IkeItadi/intro-webpage">Intro Page</a></li>
+</ul>
+
+<ul>
+  <li><a href="https://github.com/IkeItadi/CV">CV</a></li>
+</ul>
+
+<ul>
+  <li>under construction</li>
+</ul>
+  
+<ul>
+  <li>under construction</li>
+</ul>
+
+<ul>
+  <li>under construction</li>
+</ul>
+  
 
 
 <h2> 🤳 Connect with me:</h2>
