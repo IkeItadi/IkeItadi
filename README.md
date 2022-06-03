@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Landing page</b>
-  -under construction
+  -<a href="https://github.com/IkeItadi/intro-webpage">Intro Page</a>
 - <b>Online store</b>
   -under construction
 - <b>Read Manga online</b>
