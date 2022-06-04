@@ -13,7 +13,7 @@
 </ul>
 
 <ul>
-  <li>under construction</li>
+  <li><a href="https://github.com/IkeItadi/odin-recipes">Recipe website</a></li>
 </ul>
   
 <ul>
