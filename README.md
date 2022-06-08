@@ -5,11 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <ul>
-  <li><a href="https://github.com/IkeItadi/intro-webpage">Intro Page</a></li>
-</ul>
-
-<ul>
-  <li><a href="https://github.com/IkeItadi/CV">CV</a></li>
+  <li><a href=https://github.com/IkeItadi/Ike_CV">CV</a></li>
 </ul>
 
 <ul>
