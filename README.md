@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <ul>
-  <li><a href=https://github.com/IkeItadi/Ike_CV">CV</a></li>
+  <li><a href="https://github.com/IkeItadi/Ike_CV">CV</a></li>
 </ul>
 
 <ul>
@@ -13,13 +13,9 @@
 </ul>
   
 <ul>
-  <li>under construction</li>
+  <li><a href="https://github.com/IkeItadi/basic_landing_page">Landing page design for a client</a></li>
 </ul>
 
-<ul>
-  <li>under construction</li>
-</ul>
-  
 
 
 <h2> 🤳 Connect with me:</h2>
