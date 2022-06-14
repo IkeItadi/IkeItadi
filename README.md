@@ -5,6 +5,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <ul>
+  <li><a href="https://github.com/IkeItadi/restaurant_webpage">Restaurant Landing Page</a></li>
+</ul>
+
+<ul>
   <li><a href="https://github.com/IkeItadi/Ike_CV">CV</a></li>
 </ul>
 
