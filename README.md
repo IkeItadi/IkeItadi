@@ -6,19 +6,17 @@
 
 <ul>
   <li><a href="https://github.com/IkeItadi/restaurant_webpage">Restaurant Landing Page</a></li>
-</ul>
 
-<ul>
   <li><a href="https://github.com/IkeItadi/Ike_CV">CV</a></li>
+
+  <li><a href="https://github.com/IkeItadi/odin-recipes">Recipe website</a></li>
+  
+  <li><a href="https://github.com/IkeItadi/basic_landing_page">Landing page design for a client</a></li>
+  
+  <li><a href="https://github.com/IkeItadi/odin_projects">Odin projects</a></li>
 </ul>
 
-<ul>
-  <li><a href="https://github.com/IkeItadi/odin-recipes">Recipe website</a></li>
-</ul>
-  
-<ul>
-  <li><a href="https://github.com/IkeItadi/basic_landing_page">Landing page design for a client</a></li>
-</ul>
+
 
 
 
