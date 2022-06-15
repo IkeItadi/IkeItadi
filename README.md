@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <ul>
-  <li><a href="https://github.com/IkeItadi/startup_landing_page"Startup landing page></a></li>
+  <li><a href="https://github.com/IkeItadi/startup_landing_page">Startup landing page></a></li>
   
   <li><a href="https://github.com/IkeItadi/restaurant_webpage">Restaurant Landing Page</a></li>
 
