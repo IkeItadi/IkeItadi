@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Ike! <br/><a href="https://github.com/IkeItadi">Programmer</a>, <a href="https://www.linkedin.com/in/kessy-iris-itadi-ike-90110537/">System admin and a Software tester</a></h1>
+<h1>Hi, I'm Ike! <br/><a href="https://github.com/IkeItadi">Programmer</a>, <a href="https://www.linkedin.com/in/kessy-iris-itadi-ike-90110537/">Linux System admin and a Software tester</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
