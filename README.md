@@ -16,13 +16,16 @@
   <li><a href="https://github.com/IkeItadi/basic_landing_page">Landing page design for a client</a></li>
   
   <li><a href="https://github.com/IkeItadi/odin_projects">Odin projects</a></li>
+  
+  <li><a href="https://github.com/IkeItadi/tailwindcss_exercises">tailwindcss_exercises</a></li>
 </ul>
 
+<h3> 🔭 I’m currently working on ...</h3>
+     On my portfolio web page!
 
 
 
-
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 
 [<img align="left" alt="IkeItadi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
